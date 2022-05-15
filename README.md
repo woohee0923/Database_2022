@@ -4,10 +4,10 @@
 -U (업데이트) : 새로운 상품을 목록에 업데이트, 회원이 상품 개수 수정 요청 시 업데이트  
 -D (삭제) : 배송이 완료된 회원의 주문내역 삭제 
 
-## 프로젝트 주제 : 쇼핑몰 주문목록 관리 페이지
+## ERD
 ![프로젝트_0329_ERD](https://user-images.githubusercontent.com/81346143/168478125-cca8e05b-b989-4ab5-86fc-892e343ca287.png)  
 
-## 프로젝트 주제 : 쇼핑몰 주문목록 관리 페이지
+## ERD 키 표시
 ![프로젝트_0405_ERD_키표시](https://user-images.githubusercontent.com/81346143/168478136-03d09f74-2539-42c7-823b-aadba7dcdf9c.png)  
 
 ## 프로그램 명세서 작성
