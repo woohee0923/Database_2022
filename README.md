@@ -49,3 +49,17 @@
 | 운송 | 배달원(선택), 옷(필수) | 일대다 |  |
 | 운송 | 배달원(필수), 회원(필수) | 일대일 |  |
 | 공급 | 옷(선택), 공장(선택) | 다대다 | 구매가격, 수량, 구매일자 |
+
+## E-R 모델
+![ERD](https://user-images.githubusercontent.com/81346143/169661888-8f9e209d-e0c0-488e-af71-9b516903de77.png)  
+
+## 릴레이션 스키마 문서
+![릴레이션스키마1](https://user-images.githubusercontent.com/81346143/169662090-19707fdd-4e16-4ca9-a44f-7fc48663fd8c.png)
+![릴레이션스키마2](https://user-images.githubusercontent.com/81346143/169662096-e193dcc6-791d-4490-9899-3c53dfd25cc5.png)
+
+## 물리적 스키마 문서
+![물리적스키마1](https://user-images.githubusercontent.com/81346143/169662121-924c6e28-49fa-48bf-b41a-3bc7542e3a7c.png)
+![물리적스키마2](https://user-images.githubusercontent.com/81346143/169662135-408f15a0-76ec-4735-9137-0a61b3d0686f.png)
+
+
+
