@@ -51,15 +51,17 @@
 | 공급 | 옷(선택), 공장(선택) | 다대다 | 구매가격, 수량, 구매일자 |
 
 ## E-R 모델
-![ERD](https://user-images.githubusercontent.com/81346143/169661888-8f9e209d-e0c0-488e-af71-9b516903de77.png)  
+![1](https://user-images.githubusercontent.com/81346143/169702217-0c6bd1fb-7158-4117-968f-6423d91aa7eb.png)  
 
 ## 릴레이션 스키마 문서
-![릴레이션스키마1](https://user-images.githubusercontent.com/81346143/169662090-19707fdd-4e16-4ca9-a44f-7fc48663fd8c.png)
-![릴레이션스키마2](https://user-images.githubusercontent.com/81346143/169662096-e193dcc6-791d-4490-9899-3c53dfd25cc5.png)
+![2](https://user-images.githubusercontent.com/81346143/169702233-0e457157-d88a-4e41-bcf2-c92af0cd305f.png)  
+![3](https://user-images.githubusercontent.com/81346143/169702241-fbcf19aa-75c9-444f-81ec-8fc38514f36a.png)  
 
 ## 물리적 스키마 문서
-![물리적스키마1](https://user-images.githubusercontent.com/81346143/169662121-924c6e28-49fa-48bf-b41a-3bc7542e3a7c.png)
-![물리적스키마2](https://user-images.githubusercontent.com/81346143/169662135-408f15a0-76ec-4735-9137-0a61b3d0686f.png)
+![4](https://user-images.githubusercontent.com/81346143/169702244-aa211ed0-938c-4ed4-88e9-d7853559aa01.png)  
+![5](https://user-images.githubusercontent.com/81346143/169702248-f5f9e5de-5d57-4991-9ede-793af46547b3.png)  
 
+## 구현
+![6](https://user-images.githubusercontent.com/81346143/169702258-319d2053-b1b5-424a-80a3-e98b41d4b4af.png)
 
 
