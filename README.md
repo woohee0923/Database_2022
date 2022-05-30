@@ -64,7 +64,14 @@
 ![5](https://user-images.githubusercontent.com/81346143/169702248-f5f9e5de-5d57-4991-9ede-793af46547b3.png)  
 
 ## 구현
-![6](https://user-images.githubusercontent.com/81346143/169702363-a5af224c-2f4e-4164-a425-05d433e8279e.png)
+![6](https://user-images.githubusercontent.com/81346143/169702363-a5af224c-2f4e-4164-a425-05d433e8279e.png)  
+
+## 데이터 정규화
+![정규화1](https://user-images.githubusercontent.com/81346143/171012614-ba17fe0e-af8e-4e36-97a7-55d6f53f6e06.jpg)  
+![정규화2](https://user-images.githubusercontent.com/81346143/171012644-e33d9120-e94b-44ff-8f85-47bb02946e67.jpg)  
+![정규화_최종](https://user-images.githubusercontent.com/81346143/171014521-4f5d9a09-38f3-46c1-a4c1-58eaf5428620.png)
+
+
 
 
 
